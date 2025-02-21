@@ -18,8 +18,8 @@ body {
 }
 
 header {
-  background-color: #333;
-  color: steelblue;
+  background-color: steelblue;
+  color: #333;
   text-align: center;
   padding: 1rem;
 }
@@ -52,8 +52,8 @@ button {
 }
 
 footer {
-  background-color: #333;
-  color:　steelblue;
+  background-color: steelblue;
+  color:　#333;
   text-align: center;
   padding: 1rem;
 }
